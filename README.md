@@ -1,1 +1,11 @@
 # guitarDemo2
+# 页面显示
+![Image text](https://raw.githubusercontent.com/cumtzlm/guitar/master/images/1.png)
+# 选择查询条件
+![Image text](https://raw.githubusercontent.com/cumtzlm/guitar/master/images/2.png)
+# 输入查询内容
+![Image text](https://raw.githubusercontent.com/cumtzlm/guitar/master/images/3.png)
+# 结果显示
+![Image text](https://raw.githubusercontent.com/cumtzlm/guitar/master/images/4.png)
+![Image text](https://raw.githubusercontent.com/cumtzlm/guitar/master/images/5.png)
+![Image text](https://raw.githubusercontent.com/cumtzlm/guitar/master/images/6.png)
